@@ -405,4 +405,4 @@ class CurveClipper extends CustomClipper<Path>{
   }
 }
 /// registrando cambios desde el aditor, 1
-/// 
+/// enviando pull 

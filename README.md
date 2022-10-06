@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # moto_dog
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# moto_dog
+>>>>>>> 8ed043fa51edc63d90244a63e4dc794942267ef9
